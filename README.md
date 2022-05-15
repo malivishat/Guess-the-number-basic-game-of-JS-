@@ -1,1 +1,1 @@
-# Guess-the-number-basic-game-of-JS-
+# Guess_the_number(basic_game_of_JS)
